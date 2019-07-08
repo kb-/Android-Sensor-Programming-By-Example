@@ -7,7 +7,6 @@ import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
-
 import android.view.View;
 import android.widget.TextView;
 

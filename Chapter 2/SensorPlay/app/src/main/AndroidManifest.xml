@@ -22,7 +22,7 @@
         
         <activity android:name="com.sensorplay.SensorCapabilityActivity"
            android:screenOrientation="portrait"
-           android:parentActivityName="com.sensorplay.SensorListActivity"
+           android:parentActivityName="com.sensorplay.SensorListActivity" 
            android:theme="@android:style/Theme.Black.NoTitleBar">
             
              <meta-data
@@ -33,7 +33,7 @@
          
          <activity android:name="com.sensorplay.SensorValuesActivity"
            android:screenOrientation="portrait"
-           android:parentActivityName="com.sensorplay.SensorListActivity"
+           android:parentActivityName="com.sensorplay.SensorListActivity" 
            android:theme="@android:style/Theme.Black.NoTitleBar">
             
              <meta-data
