@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 08 01:34:37 CEST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Olivier\\Documents\\GitHub\\Android-Sensor-Programming-By-Example\\Chapter 2\\SensorPlay\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -4,10 +4,6 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -26,7 +22,7 @@
         
         <activity android:name="com.sensorplay.SensorCapabilityActivity"
            android:screenOrientation="portrait"
-           android:parentActivityName="com.sensorplay.SensorListActivity" 
+           android:parentActivityName="com.sensorplay.SensorListActivity"
            android:theme="@android:style/Theme.Black.NoTitleBar">
             
              <meta-data
@@ -37,7 +33,7 @@
          
          <activity android:name="com.sensorplay.SensorValuesActivity"
            android:screenOrientation="portrait"
-           android:parentActivityName="com.sensorplay.SensorListActivity" 
+           android:parentActivityName="com.sensorplay.SensorListActivity"
            android:theme="@android:style/Theme.Black.NoTitleBar">
             
              <meta-data
